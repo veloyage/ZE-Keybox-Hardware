@@ -1,0 +1,13 @@
+﻿Part,Manufacturer,Part Number,Quantity,Price ($),Footprint (mm²),Description
+Cin,Kemet,C0805C106K8PACTU,1,0.03,6.75,Cap: 10 µF  Total Derated Cap: 7.9 µF  VDC: 10 V  ESR: 3 mΩ  Package: 0805  
+Cbst,MuRata,GRM155R71A104KA01D,1,0.01,3,Cap: 100 nF  Total Derated Cap: 100 nF  VDC: 10 V  ESR: 1 mΩ  Package: 0402  
+Rfbb,Vishay-Dale,CRCW040248K7FKED,1,0.01,3,Resistance: 48.7 kΩ  Tolerance: 1.0%  Power: 63 mW  
+Ccomp2,Yageo,CC0805JRNPO9BN680,1,0.01,6.75,Cap: 68 pF  Total Derated Cap: 68 pF  VDC: 50 V  ESR: 0 Ω  Package: 0805  
+Rfbt,Vishay-Dale,CRCW0402931KFKED,1,0.01,3,Resistance: 931 kΩ  Tolerance: 1.0%  Power: 63 mW  
+Ccomp,MuRata,GRM033R60J473KE19D,1,0.01,2.08,Cap: 47 nF  Total Derated Cap: 47 nF  VDC: 6.3 V  ESR: 1 mΩ  Package: 0201  
+Cout,MuRata,GRM31CR71C106KAC7L,2,0.08,10.92,Cap: 10 µF  Total Derated Cap: 12 µF  VDC: 16 V  ESR: 4.16 mΩ  Package: 1206  
+L1,Coilcraft,XAL6030-182MEB,1,0.65,71.56,L: 1.8 µH  DCR: 9.6 mΩ  IDC: 14 A  
+Cinx,MuRata,GRM188R71H104KA93D,1,0.02,4.68,Cap: 100 nF  Total Derated Cap: 100 nF  VDC: 50 V  ESR: 20 mΩ  Package: 0603  
+Rcomp,Yageo,RC0201FR-0723K7L,1,0.01,2.08,Resistance: 23.7 kΩ  Tolerance: 1.0%  Power: 50 mW  
+U1,Texas Instruments,TPS61288RQQR,1,2.2,9,
+Cvcc,MuRata,GRM188R71A225KE15D,1,0.02,4.68,Cap: 2.2 µF  Total Derated Cap: 2.2 µF  VDC: 10 V  ESR: 9 mΩ  Package: 0603  
